@@ -19,9 +19,7 @@ public class Session1Assignment4 {
 		System.out.println(x+y*2);
 		System.out.println(x-y+2);
 		System.out.println((x+y)*2);
-		System.out.println(y%x*1); //it shows invalid expression if I entered /, so I entered 1 instead.
-		
-		
+		System.out.println(y%x); 
 		
 		
 		
